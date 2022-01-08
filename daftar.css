@@ -1,0 +1,39 @@
+.right-middle {
+    text-align: left; 
+    padding: 100px 0 100px 0;
+    float: right;
+    margin-right: 100px;
+    line-height: 20px;
+}
+
+input,select {
+    width: 400px;
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+    color: #fff;
+    font-size: 14px;
+}
+
+button{
+    width: 30%;
+    height: 40px;
+    padding: 5px 0;
+    border: none;
+    background-color:#000046;
+    font-size: 18px;
+    color: white;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+button:hover {
+    background-color: white;
+    color: #000046;
+}
+
+option {
+    background-color: #000046;
+}
