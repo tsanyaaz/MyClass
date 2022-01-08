@@ -37,3 +37,8 @@ button:hover {
 option {
     background-color: #000046;
 }
+
+::placeholder {
+    color: white;
+    opacity: 0.5;
+}
