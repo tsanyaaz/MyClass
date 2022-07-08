@@ -30,7 +30,7 @@ button{
 }
 
 a:hover, button:hover {
-    background-color: white;
+    background-color: lightblue;
     color: #000046;
 }
 
